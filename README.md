@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush Pandey!<br>🚀 Upcoming Software Engineer Intern @ Google, India<br>💻 BTech CSE | VIT Vellore (3rd Year)
+👋 Hi, I'm Ayush Pandey!<br>🚀 SWE Intern @ Google, India<br>💻 BTech CSE | VIT Vellore (4th Year)
 
 
 ## 🌐 Socials:
