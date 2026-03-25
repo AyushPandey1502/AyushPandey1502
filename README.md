@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush Pandey!<br>🚀 Ex-SWE Intern @ Google, India<br>💻 BTech CSE | VIT Vellore (4th Year)
+👋 Hi, I'm Ayush Pandey!<br>🚀 Ex-SWE Intern @ Google, India<br>💻 BTech CSE | Final Year @ VIT Vellore
+
+![Profile Views](https://komarev.com/ghpvc/?username=AyushPandey1502&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ## 🌐 Socials:
